@@ -40,6 +40,9 @@
         {{end}}
       </table>
       {{end}}
+      {{if .PrevExample}}
+        <p class="previous">PLACEHOLDING TEXT</p>
+      {{end}}
       {{if .NextExample}}
       <p class="next">
         Next example: AND EXTRA TEST <a href="{{.NextExample.ID}}" rel="next">{{.NextExample.Name}}</a>.
