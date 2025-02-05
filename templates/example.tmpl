@@ -41,7 +41,9 @@
       </table>
       {{end}}
       {{if .PrevExample}}
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="{{.PrevExample.ID}}" rel="previous">{{.PrevExample.Name}}</a>.
+      </p>
       {{end}}
       {{if .NextExample}}
       <p class="next">
