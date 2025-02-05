@@ -175,6 +175,9 @@ you should carefully research
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="base64-encoding" rel="next">Base64 Encoding</a>.
       </p>

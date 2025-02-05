@@ -166,6 +166,9 @@ but they both decode to the original string as desired.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="reading-files" rel="next">Reading Files</a>.
       </p>

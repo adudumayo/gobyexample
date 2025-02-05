@@ -242,6 +242,9 @@ the range block <code>{{.}}</code> is set to the current item of the iteration.<
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="regular-expressions" rel="next">Regular Expressions</a>.
       </p>

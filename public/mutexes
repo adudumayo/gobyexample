@@ -222,6 +222,9 @@ management task using only goroutines and channels.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="stateful-goroutines" rel="next">Stateful Goroutines</a>.
       </p>

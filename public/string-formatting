@@ -396,6 +396,9 @@ and returns a string without printing it anywhere.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="text-templates" rel="next">Text Templates</a>.
       </p>

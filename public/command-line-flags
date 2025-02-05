@@ -273,6 +273,9 @@ and show the help text again.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="command-line-subcommands" rel="next">Command-Line Subcommands</a>.
       </p>

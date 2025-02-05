@@ -230,6 +230,9 @@ then serve the remaining 2 with ~200ms delays each.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="atomic-counters" rel="next">Atomic Counters</a>.
       </p>

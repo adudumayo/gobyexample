@@ -260,6 +260,9 @@ on a single line.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="http-client" rel="next">HTTP Client</a>.
       </p>

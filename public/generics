@@ -224,6 +224,9 @@ automatically.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="range-over-iterators" rel="next">Range over Iterators</a>.
       </p>

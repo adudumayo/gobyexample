@@ -197,6 +197,9 @@ there are 3 workers operating concurrently.</p>
       </table>
       
       
+        <p class="previous">PLACEHOLDING TEXT</p>
+      
+      
       <p class="next">
         Next example: AND EXTRA TEST <a href="waitgroups" rel="next">WaitGroups</a>.
       </p>
