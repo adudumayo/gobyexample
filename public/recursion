@@ -158,7 +158,9 @@ knows which function to call with <code>fib</code> here.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="closures" rel="previous">Closures</a>.
+      </p>
       
       
       <p class="next">

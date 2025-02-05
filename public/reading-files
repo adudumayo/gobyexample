@@ -278,7 +278,9 @@ be scheduled immediately after <code>Open</code>ing with
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="base64-encoding" rel="previous">Base64 Encoding</a>.
+      </p>
       
       
       <p class="next">

@@ -146,7 +146,9 @@ settings.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="logging" rel="previous">Logging</a>.
+      </p>
       
       
       <p class="next">

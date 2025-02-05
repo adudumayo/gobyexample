@@ -159,7 +159,9 @@ This syntax is only available inside functions.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="values" rel="previous">Values</a>.
+      </p>
       
       
       <p class="next">

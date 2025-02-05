@@ -253,7 +253,9 @@ struct type. This technique is commonly used for
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="strings-and-runes" rel="previous">Strings and Runes</a>.
+      </p>
       
       
       <p class="next">

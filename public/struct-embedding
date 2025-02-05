@@ -217,7 +217,9 @@ we see that a <code>container</code> now implements the
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="enums" rel="previous">Enums</a>.
+      </p>
       
       
       <p class="next">

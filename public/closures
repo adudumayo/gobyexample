@@ -167,7 +167,9 @@ recursion.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="variadic-functions" rel="previous">Variadic Functions</a>.
+      </p>
       
       
       <p class="next">

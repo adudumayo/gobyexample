@@ -181,7 +181,9 @@ this example can only be run on your local machine.)</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="temporary-files-and-directories" rel="previous">Temporary Files and Directories</a>.
+      </p>
       
       
       <p class="next">

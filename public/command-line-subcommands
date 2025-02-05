@@ -232,7 +232,9 @@ way to parameterize programs.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="command-line-flags" rel="previous">Command-Line Flags</a>.
+      </p>
       
       
       <p class="next">

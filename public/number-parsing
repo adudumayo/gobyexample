@@ -186,7 +186,9 @@ bits.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="random-numbers" rel="previous">Random Numbers</a>.
+      </p>
       
       
       <p class="next">

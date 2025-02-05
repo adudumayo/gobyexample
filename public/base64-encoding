@@ -166,7 +166,9 @@ but they both decode to the original string as desired.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="sha256-hashes" rel="previous">SHA256 Hashes</a>.
+      </p>
       
       
       <p class="next">

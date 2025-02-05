@@ -254,7 +254,9 @@ errors in a chain of errors.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="range-over-iterators" rel="previous">Range over Iterators</a>.
+      </p>
       
       
       <p class="next">

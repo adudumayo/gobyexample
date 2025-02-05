@@ -183,7 +183,9 @@ concurrent Go programs: channels.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="custom-errors" rel="previous">Custom Errors</a>.
+      </p>
       
       
       <p class="next">

@@ -308,7 +308,9 @@ recursively by <code>filepath.WalkDir</code>.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="file-paths" rel="previous">File Paths</a>.
+      </p>
       
       
       <p class="next">

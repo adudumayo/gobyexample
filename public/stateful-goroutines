@@ -281,7 +281,9 @@ program.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="mutexes" rel="previous">Mutexes</a>.
+      </p>
       
       
       <p class="next">

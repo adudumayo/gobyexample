@@ -216,7 +216,9 @@ when printed with <code>fmt.Println</code>.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="switch" rel="previous">Switch</a>.
+      </p>
       
       
       <p class="next">

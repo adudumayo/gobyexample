@@ -174,7 +174,9 @@ doubt, <a href="testing-and-benchmarking">benchmark</a>!</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="sorting" rel="previous">Sorting</a>.
+      </p>
       
       
       <p class="next">

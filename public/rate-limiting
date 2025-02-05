@@ -230,7 +230,9 @@ then serve the remaining 2 with ~200ms delays each.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="waitgroups" rel="previous">WaitGroups</a>.
+      </p>
       
       
       <p class="next">

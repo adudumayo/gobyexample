@@ -181,7 +181,9 @@ router we&rsquo;ve just set up.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="http-client" rel="previous">HTTP Client</a>.
+      </p>
       
       
       <p class="next">

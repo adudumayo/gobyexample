@@ -224,7 +224,9 @@ automatically.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="struct-embedding" rel="previous">Struct Embedding</a>.
+      </p>
       
       
       <p class="next">

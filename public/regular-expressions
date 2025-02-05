@@ -300,7 +300,9 @@ the <a href="https://pkg.go.dev/regexp"><code>regexp</code></a> package docs.</p
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="text-templates" rel="previous">Text Templates</a>.
+      </p>
       
       
       <p class="next">

@@ -212,7 +212,9 @@ state.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="rate-limiting" rel="previous">Rate Limiting</a>.
+      </p>
       
       
       <p class="next">

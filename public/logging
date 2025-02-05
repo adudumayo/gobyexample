@@ -260,7 +260,9 @@ on a single line.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="environment-variables" rel="previous">Environment Variables</a>.
+      </p>
       
       
       <p class="next">

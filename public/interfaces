@@ -238,7 +238,9 @@ check out this <a href="https://research.swtch.com/interfaces">blog post</a>.</p
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="methods" rel="previous">Methods</a>.
+      </p>
       
       
       <p class="next">

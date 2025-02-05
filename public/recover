@@ -173,7 +173,9 @@ panic and resumes in the deferred closure.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="defer" rel="previous">Defer</a>.
+      </p>
       
       
       <p class="next">

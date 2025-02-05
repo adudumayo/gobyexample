@@ -147,7 +147,9 @@ message without having to use any other synchronization.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="goroutines" rel="previous">Goroutines</a>.
+      </p>
       
       
       <p class="next">

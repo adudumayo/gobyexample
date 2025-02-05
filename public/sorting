@@ -136,7 +136,9 @@ a slice is already in sorted order.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="stateful-goroutines" rel="previous">Stateful Goroutines</a>.
+      </p>
       
       
       <p class="next">

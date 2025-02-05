@@ -161,7 +161,9 @@ a chance to fire.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="range-over-channels" rel="previous">Range over Channels</a>.
+      </p>
       
       
       <p class="next">

@@ -187,7 +187,9 @@ causing the program to print <code>interrupt</code> and then exit.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="execing-processes" rel="previous">Exec'ing Processes</a>.
+      </p>
       
       
       <p class="next">

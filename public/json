@@ -384,7 +384,9 @@ for more.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="regular-expressions" rel="previous">Regular Expressions</a>.
+      </p>
       
       
       <p class="next">

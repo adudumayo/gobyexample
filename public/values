@@ -131,7 +131,9 @@ basic examples.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="hello-world" rel="previous">Hello World</a>.
+      </p>
       
       
       <p class="next">

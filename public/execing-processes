@@ -180,7 +180,9 @@ processes covers most use cases for <code>fork</code>.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="spawning-processes" rel="previous">Spawning Processes</a>.
+      </p>
       
       
       <p class="next">

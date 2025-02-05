@@ -252,7 +252,9 @@ can compare a <code>rune</code> value to a rune literal directly.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="pointers" rel="previous">Pointers</a>.
+      </p>
       
       
       <p class="next">

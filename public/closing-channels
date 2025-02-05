@@ -192,7 +192,9 @@ example: <code>range</code> over channels.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="non-blocking-channel-operations" rel="previous">Non-Blocking Channel Operations</a>.
+      </p>
       
       
       <p class="next">

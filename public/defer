@@ -175,7 +175,9 @@ after being written.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="panic" rel="previous">Panic</a>.
+      </p>
       
       
       <p class="next">

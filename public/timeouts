@@ -160,7 +160,9 @@ out and the second succeeding.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="select" rel="previous">Select</a>.
+      </p>
       
       
       <p class="next">

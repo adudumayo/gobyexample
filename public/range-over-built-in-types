@@ -178,7 +178,9 @@ details.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="recursion" rel="previous">Recursion</a>.
+      </p>
       
       
       <p class="next">

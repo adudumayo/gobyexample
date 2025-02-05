@@ -150,7 +150,9 @@ parsing and formatting.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="time" rel="previous">Time</a>.
+      </p>
       
       
       <p class="next">

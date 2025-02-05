@@ -186,7 +186,9 @@ that Go can provide.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="time-formatting-parsing" rel="previous">Time Formatting / Parsing</a>.
+      </p>
       
       
       <p class="next">

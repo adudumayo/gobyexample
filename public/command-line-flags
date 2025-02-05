@@ -273,7 +273,9 @@ and show the help text again.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="command-line-arguments" rel="previous">Command-Line Arguments</a>.
+      </p>
       
       
       <p class="next">

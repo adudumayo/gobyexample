@@ -197,7 +197,9 @@ there are 3 workers operating concurrently.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="tickers" rel="previous">Tickers</a>.
+      </p>
       
       
       <p class="next">

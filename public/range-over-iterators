@@ -277,7 +277,9 @@ passed to the iterator will return <code>false</code>.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="generics" rel="previous">Generics</a>.
+      </p>
       
       
       <p class="next">

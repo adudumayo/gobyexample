@@ -158,7 +158,9 @@ assignment or function call. For example, here
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="variables" rel="previous">Variables</a>.
+      </p>
       
       
       <p class="next">

@@ -242,7 +242,9 @@ the range block <code>{{.}}</code> is set to the current item of the iteration.<
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="string-formatting" rel="previous">String Formatting</a>.
+      </p>
       
       
       <p class="next">

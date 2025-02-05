@@ -251,7 +251,9 @@ we&rsquo;ve just seen to the <code>stdin</code> and <code>stdout</code> streams.
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="reading-files" rel="previous">Reading Files</a>.
+      </p>
       
       
       <p class="next">

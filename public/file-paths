@@ -217,7 +217,9 @@ be made relative to base.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="line-filters" rel="previous">Line Filters</a>.
+      </p>
       
       
       <p class="next">

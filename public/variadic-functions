@@ -163,7 +163,9 @@ to form closures, which we&rsquo;ll look at next.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="multiple-return-values" rel="previous">Multiple Return Values</a>.
+      </p>
       
       
       <p class="next">

@@ -149,7 +149,9 @@ with flags.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="testing-and-benchmarking" rel="previous">Testing and Benchmarking</a>.
+      </p>
       
       
       <p class="next">

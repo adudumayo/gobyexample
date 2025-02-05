@@ -208,7 +208,9 @@ is likely to be different for each invocation.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="worker-pools" rel="previous">Worker Pools</a>.
+      </p>
       
       
       <p class="next">

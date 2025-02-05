@@ -164,7 +164,9 @@ program picks that value up.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="command-line-subcommands" rel="previous">Command-Line Subcommands</a>.
+      </p>
       
       
       <p class="next">

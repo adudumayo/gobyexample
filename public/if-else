@@ -178,7 +178,9 @@ for basic conditions.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="for" rel="previous">For</a>.
+      </p>
       
       
       <p class="next">

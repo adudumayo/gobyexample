@@ -144,7 +144,9 @@ package docs.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="recover" rel="previous">Recover</a>.
+      </p>
       
       
       <p class="next">

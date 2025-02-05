@@ -396,7 +396,9 @@ and returns a string without printing it anywhere.</p>
       </table>
       
       
-        <p class="previous">PLACEHOLDING TEXT</p>
+      <p class="previous">
+        Previous example: <a href="string-functions" rel="previous">String Functions</a>.
+      </p>
       
       
       <p class="next">
