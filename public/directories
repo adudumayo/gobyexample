@@ -312,7 +312,7 @@ recursively by <code>filepath.WalkDir</code>.</p>
       
       
       <p class="next">
-        Next example: AND EXTRA TEST <a href="temporary-files-and-directories" rel="next">Temporary Files and Directories</a>.
+        Next example: <a href="temporary-files-and-directories" rel="next">Temporary Files and Directories</a>.
       </p>
       
 
